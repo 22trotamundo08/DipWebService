@@ -1,0 +1,12 @@
+{
+  "name": "hola-mundo-render",
+  "version": "1.0.0",
+  "description": "El Deep web o algo asi no se",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
