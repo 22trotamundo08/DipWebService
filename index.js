@@ -27,7 +27,7 @@ app.get('/', (req, res) => {
       </style>
     </head>
     <body>
-      <h1>Lo balatro sale caro</h1>
+      <h1>Ricardo Rivera Alvarado 22030169</h1>
     </body>
     </html>
   `);
